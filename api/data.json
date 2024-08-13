@@ -1,0 +1,21 @@
+[
+  {
+    "url_thumb": "https://d3g531ubdjegcy.cloudfront.net/games-stg/new/22cd198fb15d8560290a2e4cdfe9e193b86ce3ff/Games%20Catalog%20image/image_1709187679504.png",
+    "url_background": "",
+    "product": "Yggdrasil",
+    "platforms": [
+      "GPL_DESKTOP",
+      "GPL_MOBILE"
+    ],
+    "name": "5 Sevens Hold And Win",
+    "game_id": 140000355,
+    "freebet_support": false,
+    "enabled": true,
+    "category": "Slots",
+    "blocked_countries": [
+      "AU",
+      "US",
+      "UK"
+    ]
+  }
+]
