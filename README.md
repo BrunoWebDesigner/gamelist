@@ -32,7 +32,7 @@ This project is a Node.js server built using TypeScript and deployed on Vercel. 
 
 ## API Endpoints
 
-- **POST /games**:
+- **POST**:
     - Description: Receives a JSON payload containing a request for the list of casino games.
     - Request Body: 
       ```json
@@ -53,8 +53,7 @@ This project is a Node.js server built using TypeScript and deployed on Vercel. 
 
 ## File Structure
 
-- `src/`: Contains the TypeScript source files.
-- `dist/`: Contains the compiled JavaScript files.
+- `api/`: Contains the TypeScript source files.
 - `package.json`: Contains the project dependencies and scripts.
 - `vercel.json`: Configuration file for Vercel deployment.
 
