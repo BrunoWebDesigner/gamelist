@@ -9,7 +9,7 @@ app.use(bodyParser.json());
 import data from './data.json';
 
 // Route to handle POST requests
-app.post('/', (req, res) => {
+app.post('/game/list', (req, res) => {
   const operatorId = req.body.operator_id;
   if (operatorId === "bruno") {
     res.json(data);

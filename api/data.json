@@ -11,11 +11,11 @@
     "game_id": 140000355,
     "freebet_support": false,
     "enabled": true,
-    "category": "Slots",
+    "category": "Video Slots",
     "blocked_countries": [
       "AU",
       "US",
-      "UK"
+      "GB"
     ]
   }
 ]
